@@ -4,8 +4,8 @@ var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
 var birthdate = "04.12.2003"; // Дата рождения
-var fullname = "Антонов Тимофій Русланович" // ФИО
-var name = "Тимофій" // Имя
+var fullname = "Якимець Давид Валерійович" // ФИО
+var name = "Давид" // Имя
 
 // Паспорт
 var passport_id = "349087610" // Номер паспорта
